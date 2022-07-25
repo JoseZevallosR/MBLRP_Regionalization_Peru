@@ -7,10 +7,7 @@ Este repositorio contiene los codigos utilizados para la regionalización del mo
 # Codigos
 Flujo de trabajo
 
-- [Disgregacion de datos Pluviometricos con TRMM y sus estadisticos](https://github.com/JoseZevallosR/TrmmCorrection/blob/main/code/TRMM_Correction.ipynb)
-- [Calculo de los parametros MBLRP](https://github.com/JoseZevallosR/Bartlet-Lewis_Regionalization/blob/main/scripts/MBLRP_ESTIMACION.R)
-- [Interpolacion de los parametros MBLRP](https://github.com/JoseZevallosR/Bartlet-Lewis_Regionalization/blob/main/scripts/PARAMETROS_MBLRP_OK.R)
-- [Validacion cruzada](https://github.com/JoseZevallosR/Bartlet-Lewis_Regionalization/blob/main/scripts/VALIDACION_CRUZADA_DE_MBLRP.R)
-- [Caracteristicas de tormentas](https://github.com/JoseZevallosR/Bartlet-Lewis_Regionalization/blob/main/scripts/CARACTERISTICAS_DE_TORMENTAS.R)
-- [Validacion cruzada graficos](https://github.com/JoseZevallosR/Bartlet-Lewis_Regionalization/blob/main/scripts/VALIDACION_CRUZADA_GRAFICO.R)
-- [Simuacion de precipitacion en Namora](https://github.com/JoseZevallosR/Bartlet-Lewis_Regionalization/blob/main/scripts/PRECIPITACION_SIMULADA_NAMORA.R)
+- [1. Quantification of the statistics of disaggregated sub-daily gauge precipitation](https://github.com/JoseZevallosR/TrmmCorrection/blob/main/code/TRMM_Correction.ipynb)
+- [2. Quantification of the MBLRP parameters](https://github.com/JoseZevallosR/MBLRP_Regionalization_Peru/blob/main/notebooks/2.%20Quantification%20of%20the%20MBLRP.ipynb)
+- [3. Interpolation of the MBLRP parameters](https://github.com/JoseZevallosR/MBLRP_Regionalization_Peru/blob/main/notebooks/3.%20Interpolation%20of%20MBLRP%20parameters.ipynb)
+- [4. Post-processing of the workflow output](https://github.com/JoseZevallosR/MBLRP_Regionalization_Peru/blob/main/notebooks/4.%20Post-procesing.ipynb)
