@@ -1,11 +1,10 @@
-![alt text](img/Flujo_de_trabajo.png)
 
-# Modelo Modificado Pulso Rectangular de Bartlett-Lewis (MBLRP)
-Este repositorio contiene los codigos utilizados para la regionalización del modelo MBLRP en el Perú.
+# Modified Bartlett-Lewis Rectangular Pulse Model (MBLRP)
+Repository containing all the codes used for the MBLRP regionalization
 
 
 # Codigos
-Flujo de trabajo
+Workflow
 
 - [1. Quantification of the statistics of disaggregated sub-daily gauge precipitation](https://github.com/JoseZevallosR/TrmmCorrection/blob/main/code/TRMM_Correction.ipynb)
 - [2. Quantification of the MBLRP parameters](https://github.com/JoseZevallosR/MBLRP_Regionalization_Peru/blob/main/notebooks/2.%20Quantification%20of%20the%20MBLRP.ipynb)
